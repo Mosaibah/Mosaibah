@@ -1,4 +1,3 @@
-![alt text](https://github.com/mosaibah/mosaibah/blob/main/My-Nice-Photo.jfif?raw=true)
 <h1 align="center">Hi 👋, I'm Abdulrahman</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
