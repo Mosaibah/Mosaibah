@@ -2,9 +2,6 @@
 <h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosaibah&label=Profile%20views&color=0e75b6&style=flat" alt="mosaibah" /> </p>
-
-<p align="left"> <a href="https://twitter.com/proabdulrahmna" target="blank"><img src="https://img.shields.io/twitter/follow/proabdulrahmna?logo=twitter&style=for-the-badge" alt="proabdulrahmna" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/proabdulrahmna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="proabdulrahmna" height="30" width="40" /></a>
